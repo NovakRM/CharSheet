@@ -1,0 +1,55 @@
+
+body{
+    font-size: 11px;
+    background-color: #ffaec9;
+}
+
+.container-fluid{
+    padding: 50px;
+    position: relative;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.card{
+    padding: 20px;
+    min-height: 450px;
+    border: none;
+    overflow: auto;
+    max-width: 750px;
+}
+
+h6{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 1px solid #ffaec9;
+    background-color: rgba(255, 174, 201, .1);
+    padding: 10px;
+}
+
+.stats{
+    display: block;
+    position: relative;
+    margin-bottom: 2px;
+    text-align: left;
+}
+
+.SkillBars{
+    display: block;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    position: relative;
+    text-align: left;
+}
+
+b{
+    color: #ffaec9;
+}
+
+.items{
+    width: 75px;
+    height: 75px;
+    padding: 5px;
+}
